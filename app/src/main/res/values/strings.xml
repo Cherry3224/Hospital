@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hospital</string>
+    <string name="title_hospital">R.F Hospital</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="keep_signed_in">Keep me signed in</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="language">English (United Kingdom)</string>
+    <string name="help">Help</string>
+    <string name="privacy">Privacy</string>
+    <string name="terms">Terms</string>
+</resources>

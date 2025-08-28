@@ -1,0 +1,6 @@
+<resources>
+    <color name="bg_soft">#F5F8FC</color>
+    <color name="text_primary">#0D1B2A</color>
+    <color name="brand_blue">#0D3B66</color>
+    <color name="stroke">#DDDDDD</color>
+</resources>
